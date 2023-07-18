@@ -1,0 +1,8 @@
+D:\18JulyDirectoryEx\18JulyDirectoryEx\bin\Debug\18JulyDirectoryEx.exe.config
+D:\18JulyDirectoryEx\18JulyDirectoryEx\bin\Debug\18JulyDirectoryEx.exe
+D:\18JulyDirectoryEx\18JulyDirectoryEx\bin\Debug\18JulyDirectoryEx.pdb
+D:\18JulyDirectoryEx\18JulyDirectoryEx\obj\Debug\18JulyDirectoryEx.csproj.AssemblyReference.cache
+D:\18JulyDirectoryEx\18JulyDirectoryEx\obj\Debug\18JulyDirectoryEx.csproj.SuggestedBindingRedirects.cache
+D:\18JulyDirectoryEx\18JulyDirectoryEx\obj\Debug\18JulyDirectoryEx.csproj.CoreCompileInputs.cache
+D:\18JulyDirectoryEx\18JulyDirectoryEx\obj\Debug\18JulyDirectoryEx.exe
+D:\18JulyDirectoryEx\18JulyDirectoryEx\obj\Debug\18JulyDirectoryEx.pdb
